@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINUX
+echo "  Hacking Is Not A Crime. It Is An Art
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,7 @@ echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINU
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is ARIJ ARMAN with your love... 
+echo " YOUTUBE :- ADXGAMING YT | JOIN TELEGRAM :- @ADXGAMINGOFFICIAL
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
